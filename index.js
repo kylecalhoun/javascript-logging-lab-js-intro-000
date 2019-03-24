@@ -1,2 +1,3 @@
 console.error("HALP")
-console.log("Iwould be a logger") //get it?
+console.log("I would be a logger") //get it?
+console.warn("Noooo")
